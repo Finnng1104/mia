@@ -307,7 +307,7 @@
 
       function typeEndingMessage() {
         const message =
-          "Vợ à, anh biết là chúng ta hay cãi nhau về nhiều thứ,\nnhưng mong vợ hãy nhớ là anh luôn luôn yêu thương vợ\nvà sẽ ở bên vợ mãi thôi.\nEm là bầu trời của anh mà.\nYêu em, Minh Anh ngốc! \n Cảm ơn em vì đã luôn ở bên anh ❤️";
+          "Vợ à, anh biết là chúng ta hay cãi nhau về nhiều thứ,\nnhưng mong vợ hãy nhớ là anh luôn luôn yêu thương vợ\nvà sẽ ở bên vợ mãi thôi.\nEm là bầu trời của anh mà.\nCảm ơn em vì đã luôn bên anh! \n Thương em ❤️";
         const endingEl = document.getElementById("ending-message");
         const typingSound = new Audio(
           "https://cdn.pixabay.com/download/audio/2022/03/15/audio_7ed2941f6c.mp3"
